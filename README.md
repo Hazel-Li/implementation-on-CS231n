@@ -1,1 +1,3 @@
-# implementation-on-CS231n
+# Implementation-on-CS231n
+
+Deep learning course assignments
